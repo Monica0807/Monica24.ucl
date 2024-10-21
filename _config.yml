@@ -10,18 +10,18 @@
 locale                   : "en-UK"
 title                    : "Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Cuitian"
+description              : &description "1st year PhD student from UCL"
 url                      : "https://monica0807.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://github.com/Monica0807/Monica24.ucl"
+repository               : "Monica0807/Monica24.ucl"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "../images/cuitianpeng.jpg"
+  avatar           : "images/cuitianpeng.png"
   name             : "Cuitian Peng/Monica Peng"
   pronouns         : "she/her" 
   bio              : "1st-year PhD student "
