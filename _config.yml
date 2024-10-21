@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-UK"
-title                    : "Your Name / Site Title"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://monica0807.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/cuitianpeng.jpg"
+  avatar           : ../images/cuitianpeng.jpg
   name             : "Cuitian Peng/Monica Peng"
   pronouns         : "she/her" 
   bio              : "1st-year PhD student "
