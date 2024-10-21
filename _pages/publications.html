@@ -5,32 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+<h2>Journal Papers</h2>
+<hr />
+<p>Effects of Resveratrol on Anti-oxidation and Anti-apoptosis of Hepatocytes of Ducks on Exposure to Acute Heat Stress [J]. Wanting Zhou, Chen Yang, Cuitian Peng. <em>Acta Veterinaria et Zootechnica Sinica</em>, 2023, 54(1): 239-251. doi: <a href="https://doi.org/10.11843/j.issn.0366-6964.2023.01.022" target="_blank">10.11843/j.issn.0366-6964.2023.01.022</a></p>
 
-{% include base_path %}
-
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
-
-
-
+<h2>Patent</h2>
+<hr />
+<p>A Method for Freezing and Embedding Brain Tissue. CN202311363954.4. Chinese Patent (CN), 2023.10. Ningyuan Zhu, Cuitian Peng, Yuanwei Zhang, Rouxi Chen, Junpu Mei, Xiaodong Fang.</p>
