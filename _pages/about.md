@@ -9,7 +9,6 @@ redirect_from:
 
 Welcome to the academic website of **Cuitian Peng**. I obtained my master's degree from the [University of Chinese Academic of Sciences](https://www.ucas.ac.cn/) in July 2024 and previously earned my B.S. degree from [Zhongkai University of Agriculture and Engineering](https://m.zhku.edu.cn/) in 2021. My research focuses on **Big Data Analysis, Spatial Transcriptomics, Single Cell Transcriptomics, Genomics, Neurodegenerative Diseases,** and **Retina Diseases**.
 
-This site is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on [GitHub Pages](https://pages.github.com), providing a platform for sharing my research, publications, projects, and more. You can explore my works through the links below.
 
 ## Research Experience
 
@@ -25,7 +24,7 @@ This site is powered by the [Academic Pages template](https://github.com/academi
 - **Research Project Funding**, Fudan University, Department of Ophthalmology and Vision Science (2022)
 - **Full-funded Scholarship**, UCAS (2021-2024)
 
-For more information on my background and experience, please visit the [CV page](Files/Cuitian PENG-CV-Revised 1018.pdf).
+For more information on my background and experience, please visit the [CV page](files/Cuitian PENG-CV-Revised 1018.pdf).
 
 ## Contact Information
 
