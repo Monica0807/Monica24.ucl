@@ -11,35 +11,19 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Ophthalmology, Institute of Ophthalmology, UCL, 2028 (expected)
+* M.S. in Bioinformatics, University of Chinese Academic of Sciences, 2024
+* Joint Master Student, Beijing Genomics Institute (BGI)
+* B.S. in Animal Science, Zhongkai University of Agriculture and Engineering, 2021
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Computer Programming language: Linux, R, Python, Perl.
+* Laboratory Skills: DNA extraction, PCR, ELISA, Western Blot, Single-cell RNA sequencing (scRNA-seq), Spatial Transcriptomics.
+* IT Skills: Proficient in MS Office, including Work, Excel, PPT, etc.
+* Language Skills: English (Proficient), Mandarin (Native), Cantonese (Native)
+
 
 Publications
 ======
@@ -47,18 +31,18 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
   
-Teaching
+Awards and Achievements
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* 1st Prize, BGI Graduation Exhibition Poster Selection Event, 2024.
+* Participant of OptoRevolution: Exploring the Frontiers of Physiology with Light, 2023
+* Member of the Organizing Committee of the International Conference on Genomics (ICG), 2022
+* Outstanding Graduation Thesis from ZHKU, 2021 
+* 1st Prize, The First Guangdong Province Undergraduate Animal Production College Student Innovation and Design Competition, 2021
+* Excellent Student Cadre of Zhongkai University of Agriculture and Engineering, 2020
+*	National 2nd Place, National College Student Financial Elite Challenge Cup
+*	Obtained Level 13 Chinese Dance from Beijing Dance Academy
+
+
+
+
