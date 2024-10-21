@@ -11,12 +11,12 @@ Welcome to the academic website of **Cuitian Peng**. I obtained my master's degr
 
 This site is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on [GitHub Pages](https://pages.github.com), providing a platform for sharing my research, publications, projects, and more. You can explore my works through the links below.
 
-## Projects and Research Areas
+## Research Experience
 
-- **Myopia Retina:** Exploring the molecular basis of myopia-related retinal diseases.
+- **Myopia Retina:** Exploring the molecular changes in myopia process based scRNA-seq and Spatial Transcriptomics.
 - **Alzheimer’s Disease:** Investigating genetic links between retinal degeneration and Alzheimer's.
-- **A Detection Method:** Developing new bioinformatics tools for early detection of retinal diseases.
-- **Effects of Resveratrol:** Studying the therapeutic potential of resveratrol on vision-related diseases.
+- **A Detection Method:** Developing new tools for early detection of animal virus A diseases.
+- **Effects of Resveratrol:** Studying the therapeutic potential of resveratrol in animal diseases.
 
 ## Academic Achievements
 
@@ -29,8 +29,6 @@ For more information on my background and experience, please visit the [CV page]
 
 ## Contact Information
 
-Feel free to reach out via my [GitHub](https://github.com/CuitianPeng) or email me at cuitian.peng@example.com.
+Feel free to reach out via my [GitHub](https://github.com/CuitianPeng) or email me at cuitian.peng.24@ucl.ac.uk.
 
 ---
-
-This page was built using [Academic Pages](https://github.com/academicpages/academicpages.github.io), a free and customizable GitHub Pages template.
